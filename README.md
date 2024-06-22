@@ -43,14 +43,5 @@ Then define all the variables needed.
 Once the installation process has completed, run the following command to start the script:
 
 ```
-$ node deposit_ETH.js
+$ node index.js
 ```
-
-This will execute the deposit script, which swaps the ETH to WETH
-<br/>
-
-```
-$ node withdraw_ETH.js
-```
-
-This will execute the withdrawal script, which swaps the WETH back to ETH
